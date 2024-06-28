@@ -1,0 +1,109 @@
+html {
+    background-color: mistyrose;
+    font-family: cursive;
+    color: gray
+}
+
+body {
+    background-color: mistyrose;
+}
+
+hr {
+    border-color: rgb(255, 0, 140);
+    width: 70px;
+    height: 0px;
+    border-style: dashed;
+}
+
+#imag1 {
+    margin: 30px 10px 5px 0px;
+    border-radius: 60%;
+    border-color: rgb(248, 172, 217);
+    border-style: double;
+}
+
+#hed1 {
+    padding: 20px 10px 5px 5px;
+    box-shadow: 5px 5px 5px rgb(255, 128, 202);
+    margin: 0px 20px 10px 10px;
+}
+
+h1 {
+    color: rgb(255, 0, 140);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(255, 0, 140);
+}
+
+#hed3 {
+    padding: 20%;
+}
+
+#hed2 {
+    color: rgb(255, 0, 140);
+    text-align: center;
+}
+
+#hed4 {
+    text-align: center;
+}
+
+#tab1 {
+    box-shadow: 5px 5px 5px rgb(255, 128, 202);
+    border-color: rgb(255, 128, 202);
+}
+
+p {
+    text-align: center;
+}
+
+#tab2 {
+    align-content: center;
+    text-align: center;
+    padding: 1px 1px 50px 1px;
+}
+
+#hed5 {
+    padding: 30%;
+    text-align: center;
+}
+
+#hed6 {
+    margin: 60px 0px 0px 0px;
+}
+
+#btn1 {
+    background-color: rgb(255, 0, 140);
+    border-radius: 10%;
+    border-style: none;
+    box-shadow: none;
+    font-family: cursive;
+    color: white;
+}
+
+form {
+    padding: 40px 1px 10px 1px;
+}
+
+textarea {
+    border-style: none none solid none;
+    background-color: mistyrose;
+    border-color: white;
+    box-shadow: 2px 2px rgb(255, 0, 140);
+}
+
+input {
+    border-style: none none solid none;
+    border-color: white;
+    background-color: mistyrose;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px rgb(255, 0, 140);
+}
+
+#lst1 {
+    margin: 80px 0px 30px 0px;
+    align-content: center;
+}
